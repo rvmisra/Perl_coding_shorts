@@ -1,0 +1,12 @@
+497	tcdd	1|quiver|quiver|quiver	kinModCall	modified_base	2502465	2502465	22	-	.	coverage=36;context=CATATGCATTAAATCAGTCATTATAATTGTATGATTAGAAA;IPDRatio=1.82
+497	tcdb	1|quiver|quiver|quiver	kinModCall	m6A	2503400	2503400	53	+	.	context=TAAAAATATTATAGTAAAGGAGAAAATTTTATGAGTTTAGT;fracLow=0.344;coverage=39;IPDRatio=3.23;fracUp=0.797;frac=0.523;identificationQv=31
+497	hypoth	1|quiver|quiver|quiver	kinModCall	modified_base	2511232	2511232	28	+	.	coverage=33;context=TGAAACTGATAATGAAAACGAGGGAGCAGATGCCAAGAGAC;IPDRatio=2.31
+497	tcda	1|quiver|quiver|quiver	kinModCall	m6A	2511838	2511838	34	+	.	context=AAGTGGATTTATTATCAAAAATAATAATACTAGGAGGTTTT;fracLow=0.520;motif=CAAAAA;coverage=26;IPDRatio=7.98;id=CAAAAA;fracUp=0.984;frac=0.747;identificationQv=9
+497	tcdc_(hypoth)	1|quiver|quiver|quiver	kinModCall	modified_base	2520407	2520407	30	-	.	coverage=34;context=ATAACTTATGAATCAACTATGGGTGGAAACATAACTATACC;IPDRatio=2.67
+497	tcdc_(hypoth)	1|quiver|quiver|quiver	kinModCall	m4C	2520483	2520483	25	-	.	context=TTAAAAAAAATCAATAACTCCTTCAAGAGTGTTAGAGGATG;fracLow=0.128;coverage=22;IPDRatio=2.89;fracUp=0.795;frac=0.501;identificationQv=10
+497	2comp_sens_hist_kinase	1|quiver|quiver|quiver	kinModCall	modified_base	644387	644387	25	+	.	coverage=41;context=ATACCTCTATACCATTGGTAAATTCACTTACTACCTCGATA;IPDRatio=1.69
+497	2comp_sens_hist_kinase	1|quiver|quiver|quiver	kinModCall	m6A	644402	644402	21	-	.	context=TGAAAATAAAAGTAGTATCGAGGTAGTAAGTGAATTTACCA;fracLow=0.258;coverage=31;IPDRatio=2.60;fracUp=0.786;frac=0.540;identificationQv=17
+497	2comp_sens_hist_kinase	1|quiver|quiver|quiver	kinModCall	modified_base	644458	644458	21	+	.	coverage=44;context=TCCTTTCTTGCTGGAAACTCGTCTTCCACTATTATAGCTCT;IPDRatio=1.52
+497	resp_regulator	1|quiver|quiver|quiver	kinModCall	m6A	646805	646805	31	+	.	context=GGATTATGGATAGCACAAAAAATTAGAGAATCAGATTATAT;fracLow=0.264;motif=CAAAAA;coverage=33;IPDRatio=3.92;id=CAAAAA;fracUp=0.677;frac=0.474;identificationQv=12
+497	cdtb	1|quiver|quiver|quiver	kinModCall	modified_base	649108	649108	24	-	.	coverage=27;context=GAAATATATTAAATTATTTATGTGAAAAAATATTAAGGTAT;IPDRatio=2.29
+497	cdtb	1|quiver|quiver|quiver	kinModCall	modified_base	649139	649139	33	+	.	coverage=33;context=AATATATTTCAAATTAAAGGAGGAGAAATAATGAAAGTACA;IPDRatio=3.40
